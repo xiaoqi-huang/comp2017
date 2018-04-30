@@ -13,7 +13,7 @@ FOYER > SOUTH > START
 START > WEST > ELEVATOR
 ```
 
-Each pathway is broken up by spaces and the `>` symbols. <roomA> > WEST  > <roomB> this translates to:
+Each pathway is broken up by spaces and the `>` symbols. `<roomA>` > WEST  > `<roomB>` this translates to:
 
 roomA's west's pathway connects to roomB
 
