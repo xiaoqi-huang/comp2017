@@ -13,7 +13,7 @@ FOYER > SOUTH > START
 START > WEST > ELEVATOR
 ```
 
-Each pathway is broken up by spaces and the `>` symbols. <roomA> > WEST  > <roomB> this translates to:
+Each pathway is broken up by spaces and the `>` symbols. `<roomA>` > WEST  > `<roomB>` this translates to:
 
 roomA's west's pathway connects to roomB
 
@@ -87,7 +87,7 @@ Specific functions to know for this task:
 
 **fopen, fgets, sscanf, malloc, realloc, free, memset, strcpy, strcmp**
 
-**Assumptions/Clarifications:**
+## **Assumptions/Clarifications:**
 
 \* 8192 is largest number of characters in a line from the level file.
 
@@ -103,7 +103,7 @@ Specific functions to know for this task:
 
 \* If a room's pathway has already been assigned it can be overridden when reading the level file.
 
-**Examples:**
+## **Examples:**
 
 Example 1:
 
